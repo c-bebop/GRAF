@@ -1,0 +1,13 @@
+[package]
+name = "graf"
+version = "0.1.0"
+authors = ["Jones <2944106+c-bebop@users.noreply.github.com>"]
+description = "GRAF: Graph Representation and Algorithm Framework."
+License = "MIT"
+repository = "https://github.com/c-bebop/GRAF"
+readme = "README.md"
+edition = "2024"
+
+[dependencies]
+# TODO: specify further which features for rand?
+rand = "0.10.2"
